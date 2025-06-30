@@ -1,0 +1,9 @@
+{
+  "name": "@digitalgab/angular",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "echo 'Build Angular UI'",
+    "dev": "echo 'Dev Angular UI'"
+  }
+}
